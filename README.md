@@ -28,6 +28,10 @@
 
 ## 🌟Знаковые проекты:
 
+- [Поисковик фильмов](https://github.com/EgorSabyanin/movies-explorer-frontend.git)
+- [Социальная сеть про путешествия](https://github.com/EgorSabyanin/mesto.git)
+- [Путешествия по России](https://github.com/EgorSabyanin/russian-travel)
+- [Как научиться учиться](https://github.com/EgorSabyanin/how-to-learn.git)
 <!--
 **EgorSabyanin/EgorSabyanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
